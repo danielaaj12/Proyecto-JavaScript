@@ -1,0 +1,91 @@
+/*General*/
+body{
+    background-color: rgb(101, 170, 80);
+    margin: 0 auto;
+    font-family:'Titillium Web', sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin: 95px;
+    color: rgb(17, 7, 1);
+    margin-top: 12px;
+    font-family: 'Carter One', cursive;
+
+}
+
+#contenedor{
+    padding: 200px;
+}
+#buscador{
+    margin-left:18px;
+    padding-bottom: 1px;
+    float: right;
+    padding-left: 12px;
+    margin-right: 200px;
+  }
+  
+  form{
+    width: 300px;
+  }
+  
+  fieldset{
+    background-color: #fff;
+    border: 1px solid rgb(5, 4, 4);
+    border-radius: 5px;
+  }
+  
+  #space, #btn{
+    position: relative;
+    width: 187px;
+    height: 26px;
+    padding: 8px;
+  }
+  
+  #space{
+    color: black;
+    border: none;
+    outline: none;
+  }
+  
+  #btn{
+    margin-top: 1px;
+    font-size: 1.5em;
+    width: 60px;
+    border: none;
+  }
+  
+  .fa-search{
+    color:white;
+  }
+
+  .contenedor{
+     margin-left: 300px;
+     padding: 70px;
+  }
+
+  #botón{
+      background: none;
+      border-color: black;
+  }
+  .img{
+    margin: 0 auto;
+    margin-left: 570px;
+  }
+
+  h4,p{
+    text-align: center;
+    margin: 0 auto;
+    padding: 50px;
+  
+  }
+
+  h1{
+    color:white;
+  }
+
+  .tittle{
+    color: black;
+  }
+
+
